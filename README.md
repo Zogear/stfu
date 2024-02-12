@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+<a href="/" class="place-self-start -mt-[4px]" aria-label="Bagisto "><img src="http://localhost:8000/storage/channel/1/3OWEfJNeQuNajSEwN1g21jB2ejbQHAcTaphz123g.png" width="131" height="29" alt="Bagisto"></a>
+</p>
+
+
+<p align="center">
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
